@@ -1,4 +1,4 @@
 # mahakcode-demo
 This is my first Repository.
 <br>
-Author - mahakbansal
+Author - mahak(apna college)
